@@ -13,8 +13,6 @@ The dataset was initially in CSV format, and I've undertaken the process of load
 The CSV file, serving as the input dataset, contains information about human resource employees and consists of 22,215 rows.
 
 ### SQL Scripts
-Note:
-
 We didn't use records where the age was negative (967 records), and we only looked at ages 18 and older. Also, we didn't include records with termination dates way in the future (1599 records). We only considered termination dates that are on or before the current date.
 
 Questions taken for the analysis:
