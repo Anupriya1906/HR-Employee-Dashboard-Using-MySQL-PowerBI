@@ -9,4 +9,4 @@ HR Employee Distribution dashboard is created by using MySQL and Power BI.
 
 ### SQL Scripts
 
-### Dashbooard Creation Using Power BI
+### Dashboard Creation Using Power BI
