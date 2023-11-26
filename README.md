@@ -13,8 +13,11 @@ The dataset was initially in CSV format, and I've undertaken the process of load
 
 ### SQL Scripts
 Note:
+
 We didn't use records where the age was negative (967 records), and we only looked at ages 18 and older. Also, we didn't include records with termination dates way in the future (1599 records). We only considered termination dates that are on or before the current date.
+
 Questions taken for the analysis:
+
 1. What is the gender breakdown of employees in the company?
 2. What is the race/ethnicity breakdown of employees in the company?
 3. What is the age distribution of employees in the company?
